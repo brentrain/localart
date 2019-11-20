@@ -1,7 +1,7 @@
 # localart
 Local artists social media app
 
-1.  The app will be available in iOs and Andriod platforms
+1.  The app will be available in iOs to start, but available on iphone and desktop
 2.  This app is for local artists to connect socially and display their work
 3.  The design will be polished.
 4.  App wil be accessible on smartphone, tablet and desktop
